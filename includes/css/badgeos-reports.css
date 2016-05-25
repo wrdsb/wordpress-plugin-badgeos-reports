@@ -1,0 +1,25 @@
+.metabox-holder {
+	display: block;
+	overflow: hidden;
+	float: left;
+	clear: none;
+	margin: 0 1em 1em 0;
+	width:32%;
+}
+.stat {
+	font-size: 3em;
+	font-weight: bold;
+	text-align: center;
+	letter-spacing: -1px;
+	line-height: 1em;
+	margin: 0;
+}
+.csv-link {
+	clear: both;
+	text-align: center;
+	padding:1em 0;
+}
+canvas {
+	width: 98% !important;
+	height: auto !important;
+}
